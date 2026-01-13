@@ -28,6 +28,11 @@
     gap: 5px;
 }
 
+.text_item_menu_principal{
+    text-decoration: none;
+    color: white;
+}
+
 .carrito_navbar{
     display: flex;
     gap: 5px;
